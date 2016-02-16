@@ -1,0 +1,13 @@
+Êþº¾   4 ,  armando/giti7083s/canino/Animal  java/lang/Object foto Ljava/lang/String; tipo_Comida localizacion tamanio <init> ()V Code
+   
+  LineNumberTable LocalVariableTable this Larmando/giti7083s/canino/Animal; 
+hacerRuido ()Ljava/lang/Package; comer dormir rugir getFoto ()Ljava/lang/String;	     setFoto (Ljava/lang/String;)V getTipo_Comida	      setTipo_Comida getLocalizacion	  $   setLocalizacion 
+getTamanio	  ( 	  
+setTamanio 
+SourceFile Animal.java !                      	      
+      /     *· ±           
+                    ,     °                               ,     °                               +      ±                                ,     °           #                    /     *´ °           *                    >     *+µ ±       
+    0  1                          /     *´ °           6              !      >     *+µ ±       
+    <  =                    "      /     *´ #°           B              %      >     *+µ #±       
+    H  I                    &      /     *´ '°           N              )      >     *+µ '±       
+    T  U                	    *    +

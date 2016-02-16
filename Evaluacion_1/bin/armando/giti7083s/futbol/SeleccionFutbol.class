@@ -1,0 +1,14 @@
+Êþº¾   4 ,  &armando/giti7083s/futbol/SeleccionFutbol  java/lang/Object  0armando/giti7083s/futbol/IntegranteSeleccionFutbol id I nombre Ljava/lang/String; 	apellidos edad getId ()I Code	     LineNumberTable LocalVariableTable this (Larmando/giti7083s/futbol/SeleccionFutbol; setId (I)V 	getNombre ()Ljava/lang/String;	   	 
+ 	setNombre (Ljava/lang/String;)V getApellidos	     
+ setApellidos getEdad	  $   setEdad <init> ()V
+  ) & ' 
+SourceFile SeleccionFutbol.java !            	 
+     
+        	        /     *´ ¬                               >     *µ ±       
+    #  $                          /     *´ °           ,                    >     *+µ ±       
+    5  6                	 
+         /     *´ °           >              !      >     *+µ ±       
+    G  H                 
+   "      /     *´ #¬           P              %      >     *µ #±       
+    Y  Z                    & '     3     *· (±       
+    a  c              *    +

@@ -1,0 +1,5 @@
+Êþº¾   4    armando/giti7083s/proyecto/Cliente  java/lang/Object rfc Ljava/lang/String; nombre 	domicilio telefono email proyecto #Larmando/giti7083s/proyecto/Proyecto; solicita Ljava/util/List; 	Signature 9Ljava/util/List<Larmando/giti7083s/proyecto/Presupuestos;>; <init> *(Larmando/giti7083s/proyecto/Presupuestos;)V Code
+     ()V LineNumberTable LocalVariableTable this "Larmando/giti7083s/proyecto/Cliente; presupuestos 'Larmando/giti7083s/proyecto/Presupuestos; 
+SourceFile Cliente.java !                      	     
+                          =     *· ±       
+    #  %                        

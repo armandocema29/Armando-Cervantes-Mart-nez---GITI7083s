@@ -1,0 +1,9 @@
+Êþº¾   4   armando/giti7083s/animal/LAnimal  java/lang/Object  armando/giti7083s/animal/Animal nombre Ljava/lang/String; <init> ()V Code
+   	 
+ LineNumberTable LocalVariableTable this  Larmando/giti7083s/animal/LAnimal; 
+tipoAnimal 	getNombre ()Ljava/lang/String;	     	setNombre (Ljava/lang/String;)V 
+SourceFile LAnimal.java !             	 
+     3     *· ±       
+                   	  
+     !       ±                         /     *´ °                                >     *+µ ±       
+    &  '                        

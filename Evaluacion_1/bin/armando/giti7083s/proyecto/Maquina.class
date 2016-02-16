@@ -1,0 +1,5 @@
+Êþº¾   4    armando/giti7083s/proyecto/Maquina  java/lang/Object nombre Ljava/lang/String; importe Ljava/lang/Double; tieneAsignadas Ljava/util/List; 	Signature 5Ljava/util/List<Larmando/giti7083s/proyecto/Proyecto;>; <init> &(Larmando/giti7083s/proyecto/Proyecto;)V Code
+     ()V LineNumberTable LocalVariableTable this "Larmando/giti7083s/proyecto/Maquina; proyecto #Larmando/giti7083s/proyecto/Proyecto; 
+SourceFile Maquina.java !                 	 
+               =     *· ±       
+                              

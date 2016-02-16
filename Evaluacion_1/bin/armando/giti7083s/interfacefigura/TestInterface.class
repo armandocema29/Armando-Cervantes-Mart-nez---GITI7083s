@@ -1,0 +1,9 @@
+ ˛∫æ   4 (  -armando/giti7083s/interfacefigura/TestInterface  java/lang/Object  &armando/giti7083s/interfacefigura/Figura cuadrado *Larmando/giti7083s/interfacefigura/Cuadrado; circulo )Larmando/giti7083s/interfacefigura/Circulo; 	triangulo +Larmando/giti7083s/interfacefigura/Triangulo; <init> Å(Larmando/giti7083s/interfacefigura/Cuadrado;Larmando/giti7083s/interfacefigura/Circulo;Larmando/giti7083s/interfacefigura/Triangulo;)V Code
+     ()V  (armando/giti7083s/interfacefigura/Cuadrado
+  	      'armando/giti7083s/interfacefigura/Circulo
+  	   	 
+  )armando/giti7083s/interfacefigura/Triangulo
+  	  !   LineNumberTable LocalVariableTable this /Larmando/giti7083s/interfacefigura/TestInterface; 
+SourceFile TestInterface.java !            	 
+                ~     &*∑ *ª Y∑ µ *ª Y∑ µ *ª Y∑ µ  ±    "       "  $  %  & % ' #   *    & $ %     &      & 	 
+    &     &    '

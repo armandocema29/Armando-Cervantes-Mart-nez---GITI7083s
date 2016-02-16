@@ -1,0 +1,6 @@
+Êþº¾   4    armando/giti7083s/proyecto/Gasto  java/lang/Object lugar Ljava/lang/String; fecha Ljava/util/Date; lnt tipo justificante precio Ljava/lang/Double; 	pertenece Ljava/util/List; 	Signature 2Ljava/util/List<Larmando/giti7083s/proyecto/Viaje;>; <init> #(Larmando/giti7083s/proyecto/Viaje;)V Code
+     ()V LineNumberTable LocalVariableTable this  Larmando/giti7083s/proyecto/Gasto; viaje  Larmando/giti7083s/proyecto/Viaje; 
+SourceFile 
+Gasto.java !                 	     
+                               =     *· ±       
+       "                        

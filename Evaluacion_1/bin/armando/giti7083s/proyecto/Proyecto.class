@@ -1,0 +1,5 @@
+Êþº¾   4 !  !armando/giti7083s/proyecto/Proyecto  java/lang/Object nombre Ljava/lang/String; planificacion fechaInicio Ljava/util/Date; fechaFin descripcion estado presupuestos Ljava/util/List; 	Signature 9Ljava/util/List<Larmando/giti7083s/proyecto/Presupuestos;>; maquinas "Larmando/giti7083s/proyecto/Maquina; <init> L(Larmando/giti7083s/proyecto/Presupuestos;Larmando/giti7083s/proyecto/Maquina;)V Code
+     ()V LineNumberTable LocalVariableTable this #Larmando/giti7083s/proyecto/Proyecto; 'Larmando/giti7083s/proyecto/Presupuestos; maquina 
+SourceFile Proyecto.java !                  	    
+ 	                                   G     *· ±       
+    %  '                                

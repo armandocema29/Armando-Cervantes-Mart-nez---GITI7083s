@@ -1,0 +1,5 @@
+Êþº¾   4   armando/giti7083s/factory/Cliente  java/lang/Object  !armando/giti7083s/factory/ProductoB  !armando/giti7083s/factory/ProductoA 
+ 'armando/giti7083s/factory/AbstractFactory <init> ()V Code
+     LineNumberTable LocalVariableTable this !Larmando/giti7083s/factory/Cliente; 
+SourceFile Cliente.java !      	           3     *· ±       
+                        

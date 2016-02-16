@@ -1,0 +1,7 @@
+Êþº¾   4   *armando/giti7083s/factory/FactorialConcreta2  java/lang/Object  'armando/giti7083s/factory/AbstractFactory crearProductoAa 9(Larmando/giti7083s/factory/ProductoA2;)Ljava/lang/Package; Code LineNumberTable LocalVariableTable this ,Larmando/giti7083s/factory/FactorialConcreta2; a2 $Larmando/giti7083s/factory/ProductoA2; crearProductoBb 9(Larmando/giti7083s/factory/ProductoB2;)Ljava/lang/Package; b2 $Larmando/giti7083s/factory/ProductoB2; <init> ()V
+     
+SourceFile FactorialConcreta2.java !            	   6     °    
+                              	   6     °    
+       '                       	   3     *· ±    
+   
+    .  2                  
